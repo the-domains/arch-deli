@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-18T01:18:36.213Z'
+datePublished: '2016-08-18T01:18:36.219Z'
 sourcePath: >-
   _posts/2016-04-15-wild-shape-shifting-sofa-can-be-whatever-you-want-it-to-be.md
 inFeed: true
@@ -22,7 +22,7 @@ author:
   - name: Margaret Rhodes
     url: 'http://www.wired.com/author/margaret-rhodes/'
     avatar: {}
-dateModified: '2016-08-18T01:18:35.343Z'
+dateModified: '2016-08-18T01:18:34.841Z'
 title: Wild Shape-Shifting Sofa Can Be Whatever You Want It to Be
 app_links: []
 publisher:
