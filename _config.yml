@@ -1,4 +1,3 @@
-layout_spectrum: 0.058301912387833
 typography_spectrum: 0.18817482749000192
 color:
   brandStrength: 0.7461516573093832
@@ -11,4 +10,9 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.058301912387833
+author:
+  name: Jack
+  email: architecture@archdeli.com.au
 name: Arch Deli
+title: architecture | interiors | development
